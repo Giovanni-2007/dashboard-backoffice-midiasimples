@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "dashboard-backoffice-vero-b2c",
+  "name": "dashboard-backoffice-midiasimples",
   "compatibility_date": "2026-06-09",
   "assets": {
     "directory": "./",
